@@ -24,7 +24,7 @@ Ensure Node.js is version 12.2.0 or higher
 
 ### `cd Path/To/App/Travel-Assistance-App`,
 
-Enteres the correct directory and pepares the running of the App
+Enter into the correct directory and prepares the running of the App
 
 ### `npm run dev`,
 
