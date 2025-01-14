@@ -26,7 +26,7 @@ Ensure Node.js is version 12.2.0 or higher
 
 Enter into the correct directory and prepares the running of the App
 
-### `npm run dev`,
+#### `npm run dev`,
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. Errors will be displayed on the console. Ensure you have your own API keys and paste it in api/index.js (Weather and Travel Advisor Api) as well as index.js and Map.jsx (Google maps Api).
 
