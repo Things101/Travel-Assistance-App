@@ -18,11 +18,11 @@
 
 Vite would need to be installed to run the project since it was created using Vite.
 
-### `node -v`,
+#### `node -v`,
 
 Ensure Node.js is version 12.2.0 or higher
 
-### `cd Path/To/App/Travel-Assistance-App`,
+#### `cd Path/To/App/Travel-Assistance-App`,
 
 Enter into the correct directory and prepares the running of the App
 
