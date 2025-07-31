@@ -20,10 +20,10 @@ An interactive travel planning web app that combines data from the **Weather API
 - **Axios** for API requests
 - **HTML** & **CSS**
 
-## 📦 Installation
+## 📦 Run it locally
 
 ```bash
 git clone https://github.com/Things101/Travel-Assistance-App.git
 cd Travel-Assistance-App
 npm install
-npm start
+npm run dev
