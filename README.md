@@ -1,4 +1,4 @@
-# Travel Companion App 🌍
+# Travel Assistance App 🌍
 
 An interactive travel planning web app that combines data from the **Weather API**, **Google Maps API**, and **Travel Advisor API** to help users discover top attractions, restaurants, and hotels in any given area.
 
